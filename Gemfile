@@ -2,7 +2,7 @@ source "https://rubygems.org"
 
 gem "jekyll", "~> 4.3.4"
 
-gem "jekyll-theme-linky", "~> 0.1.9"
+gem "jekyll-theme-linky", "~> 0.2"
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
