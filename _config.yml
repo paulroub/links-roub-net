@@ -54,3 +54,4 @@ linky:
     button_foreground: "#F0F0F0"
     button_background: "#006"
     social_button_color: "#666"
+    add_rel_me_links: true
