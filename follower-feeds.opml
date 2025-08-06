@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<opml version="2.0">
+  <head>
+    <title>Follower Feeds</title>
+    <dateCreated>Wed, 06 Aug 2025 13:37:24 -0000</dateCreated>
+    <ownerName>Follower Feeds</ownerName>
+    <ownerEmail>owner@example.com</ownerEmail>
+    <docs>http://opml.org/spec2.opml</docs>
+  </head>
+  <body>
+    <outline text="indiewebadmin" title="indiewebadmin">
+      <outline text="indiewebadmin" type="link" url="https://indieweb.social/@indiewebadmin"/>
+      <outline text="Web">
+        <outline text="Web" type="link" url="https://www.newsmastfoundation.org/"/>
+      </outline>
+      <outline text="FAQs">
+        <outline text="FAQs" type="link" url="https://www.newsmastfoundation.org/faqs/"/>
+      </outline>
+    </outline>
+    <outline text="ieeespectrum@mastodon.social" title="ieeespectrum@mastodon.social">
+      <outline text="ieeespectrum@mastodon.social" type="link" url="https://mastodon.social/@ieeespectrum"/>
+      <outline text="IEEE Spectrum Website">
+        <outline text="IEEE Spectrum Website" type="link" url="https://spectrum.ieee.org/"/>
+        <outline text="IEEE Spectrum" type="rss" xmlUrl="/feeds/feed.rss" title="IEEE Spectrum"/>
+      </outline>
+      <outline text="Tech Alert">
+        <outline text="Tech Alert" type="link" url="https://engage.ieee.org/Tech-Alert-Sign-Up.html"/>
+      </outline>
+      <outline text="Robotics Newsletter">
+        <outline text="Robotics Newsletter" type="link" url="https://engage.ieee.org/Robotics-News-Sign-Up-Lead-Gen.html"/>
+      </outline>
+      <outline text="AI Newsletter">
+        <outline text="AI Newsletter" type="link" url="https://engage.ieee.org/AI-Alert-Sign-Up.html"/>
+      </outline>
+    </outline>
+    <outline text="benbrown@masto.hackers.town" title="benbrown@masto.hackers.town">
+      <outline text="benbrown@masto.hackers.town" type="link" url="https://masto.hackers.town/@benbrown"/>
+      <outline text="personal web">
+        <outline text="personal web" type="link" url="https://benbrown.com"/>
+        <outline text="everything benbrown" type="rss" xmlUrl="/feed.xml" title="everything benbrown"/>
+      </outline>
+      <outline text="finger">
+        <outline text="finger" type="link" url="https://happynetbox.com"/>
+      </outline>
+      <outline text="pixel art">
+        <outline text="pixel art" type="link" url="https://makepixelart.com"/>
+      </outline>
+      <outline text="My sci-fi book">
+        <outline text="My sci-fi book" type="link" url="https://shop.benbrown.com"/>
+      </outline>
+    </outline>
+    <outline text="surf@flipboard.social" title="surf@flipboard.social">
+      <outline text="surf@flipboard.social" type="link" url="https://flipboard.social/@surf"/>
+      <outline text="Waitlist">
+        <outline text="Waitlist" type="link" url="https://about.surf.social/"/>
+      </outline>
+    </outline>
+  </body>
+</opml>
