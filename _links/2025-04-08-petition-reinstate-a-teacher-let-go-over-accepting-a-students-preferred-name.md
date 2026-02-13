@@ -1,7 +1,7 @@
 ---
 title: Brevard Deserves Better
 link: https://brevarddeservesbetter.com/
-image: /images/img_0060.png
+image: /images/bdb.webp.png
 priority: 1
 category: Censorship
 ---
